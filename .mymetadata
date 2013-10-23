@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="qunfa"
+  id="myeclipse.1369618121839"
+  context-root="/qunfa"
+  j2ee-spec="5.0"
+  archive="qunfa.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
